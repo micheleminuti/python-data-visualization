@@ -1,0 +1,14 @@
+[project]
+name = "python-data-visualization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bokeh>=3.9.0",
+    "hvplot>=0.12.2",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+]
